@@ -1,0 +1,16 @@
+{
+  "name": "pmp-media-keys",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "iohook": "^0.3.1",
+    "plex-api": "^5.2.1"
+  }
+}
